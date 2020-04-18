@@ -1,0 +1,8 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 2.2\ejercicio 2.2\bin\Debug\ejercicio 2.2.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 2.2\ejercicio 2.2\bin\Debug\ejercicio 2.2.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 2.2\ejercicio 2.2\bin\Debug\ejercicio 2.2.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 2.2\ejercicio 2.2\obj\Debug\ejercicio 2.2.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 2.2\ejercicio 2.2\obj\Debug\ejercicio 2.2.pdb
+E:\jesus david\ejercicio 2.2\ejercicio 2.2\bin\Debug\ejercicio 2.2.exe.config
+E:\jesus david\ejercicio 2.2\ejercicio 2.2\obj\Debug\ejercicio 2.2.exe
+E:\jesus david\ejercicio 2.2\ejercicio 2.2\obj\Debug\ejercicio 2.2.pdb

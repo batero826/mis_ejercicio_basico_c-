@@ -1,0 +1,12 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\contadores 2\contadores 2\bin\Debug\contadores 2.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\contadores 2\contadores 2\obj\Debug\contadores 2.csprojResolveAssemblyReference.cache
+C:\Users\FORMACION\Documents\adsi 1961869\david\contadores 2\contadores 2\bin\Debug\contadores 2.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\contadores 2\contadores 2\bin\Debug\contadores 2.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\contadores 2\contadores 2\obj\Debug\contadores 2.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\contadores 2\contadores 2\obj\Debug\contadores 2.pdb
+E:\jesus david\contadores 2\contadores 2\bin\Debug\contadores 2.exe.config
+E:\jesus david\contadores 2\contadores 2\bin\Debug\contadores 2.exe
+E:\jesus david\contadores 2\contadores 2\bin\Debug\contadores 2.pdb
+E:\jesus david\contadores 2\contadores 2\obj\Debug\contadores 2.csprojAssemblyReference.cache
+E:\jesus david\contadores 2\contadores 2\obj\Debug\contadores 2.exe
+E:\jesus david\contadores 2\contadores 2\obj\Debug\contadores 2.pdb

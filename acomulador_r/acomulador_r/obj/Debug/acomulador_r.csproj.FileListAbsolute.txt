@@ -1,0 +1,5 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\acomulador_r\acomulador_r\bin\Debug\acomulador_r.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\acomulador_r\acomulador_r\bin\Debug\acomulador_r.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\acomulador_r\acomulador_r\bin\Debug\acomulador_r.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\acomulador_r\acomulador_r\obj\Debug\acomulador_r.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\acomulador_r\acomulador_r\obj\Debug\acomulador_r.pdb

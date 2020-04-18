@@ -1,0 +1,11 @@
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\bin\Debug\netcoreapp3.1\ejercicio de for.exe
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\bin\Debug\netcoreapp3.1\ejercicio de for.deps.json
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\bin\Debug\netcoreapp3.1\ejercicio de for.runtimeconfig.json
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\bin\Debug\netcoreapp3.1\ejercicio de for.runtimeconfig.dev.json
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\bin\Debug\netcoreapp3.1\ejercicio de for.dll
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\bin\Debug\netcoreapp3.1\ejercicio de for.pdb
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\obj\Debug\netcoreapp3.1\ejercicio de for.csprojAssemblyReference.cache
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\obj\Debug\netcoreapp3.1\ejercicio de for.AssemblyInfoInputs.cache
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\obj\Debug\netcoreapp3.1\ejercicio de for.AssemblyInfo.cs
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\obj\Debug\netcoreapp3.1\ejercicio de for.dll
+E:\jesus david\ejercicio para clase\ejercicio de for\ejercicio de for\obj\Debug\netcoreapp3.1\ejercicio de for.pdb

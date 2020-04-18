@@ -1,0 +1,6 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\respuesta_usuario\respuesta_usuario\bin\Debug\respuesta_usuario.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\respuesta_usuario\respuesta_usuario\bin\Debug\respuesta_usuario.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\respuesta_usuario\respuesta_usuario\bin\Debug\respuesta_usuario.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\respuesta_usuario\respuesta_usuario\obj\Debug\respuesta_usuario.csprojResolveAssemblyReference.cache
+C:\Users\FORMACION\Documents\adsi 1961869\david\respuesta_usuario\respuesta_usuario\obj\Debug\respuesta_usuario.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\respuesta_usuario\respuesta_usuario\obj\Debug\respuesta_usuario.pdb

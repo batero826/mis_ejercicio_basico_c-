@@ -1,0 +1,9 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.csprojResolveAssemblyReference.cache
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\acumulador 1.1\ejercicio 5\bin\Debug\ejercicio 5.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\acumulador 1.1\ejercicio 5\obj\Debug\ejercicio 5.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\acumulador 1.1\ejercicio 5\obj\Debug\ejercicio 5.pdb
